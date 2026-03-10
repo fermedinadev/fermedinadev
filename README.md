@@ -1,7 +1,7 @@
 <h1 align="center">Hola, Soy Fernando Medina</h1>
 <h3 align="center">Aprendiendo a programar</h3>
 
-- 🌱 I’m currently learning **Python, Kotlin**
+- 🌱Estoy actualmente aprendiendo **Python, Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
